@@ -42,7 +42,6 @@ Automotive designer
 Audiologist
 Auditor
 Audio Analyser
-BEdit
 Babysitter
 Bacteriologist
 Bailiff
@@ -87,7 +86,6 @@ Bureaucrat
 Butcher
 Butler
 Heading text Edit
-CEdit
 Cab driver
 Cabinetmaker
 Caddy
@@ -139,9 +137,7 @@ Comedian
 Company secretary
 Compasssmith
 Composer
-Computer programmer
-Conductor (music)
-Conductor (transportation)
+Conductor
 Confectioner
 Conferencier
 Constable
@@ -153,7 +149,7 @@ Consul
 Consultant
 Controller
 Cosmetologist
-Contractor, general
+Contractor
 Cook
 Copywriter
 Coroner
@@ -173,16 +169,14 @@ Cryptozoologist
 Curator
 Currier
 Custodian
-Customer service representative
 Customs officer
 Cyclist
-DEdit
 Dancer
 Dealer
 Delivery man
 Dental hygienist
 Dentist
-Deputy (Law Enforcement)
+Deputy
 Dermatologist
 Demolitionist
 Designer
@@ -205,7 +199,6 @@ Driver
 Drug dealer
 Drummer
 DJ
-EEdit
 Ecologist
 Editor
 Educationalist
@@ -230,7 +223,6 @@ Executor
 Exotic dancer
 Explorer
 Executioner
-FEdit
 Factory worker
 Falconer
 Farmer
@@ -266,7 +258,6 @@ Forester
 Fortune teller
 Fowler
 Funeral director
-GEdit
 Game designer
 Game show host
 Game warden
@@ -300,7 +291,6 @@ Guard
 Guide
 Guitarist
 Gunsmith
-HEdit
 Hairdresser
 Hairstylist
 Handyman
@@ -325,7 +315,6 @@ Housewife
 Homeowner
 Hunter
 Hydraulic engineer
-IEdit
 Ice cream man
 Illuminator
 Illusionist
@@ -354,7 +343,6 @@ Investment broker
 Ironmonger
 Ironmaster
 Ironworker
-JEdit
 Jailer
 Janitor
 Jeweller
@@ -366,18 +354,14 @@ Journalist
 Judge
 Juggler
 Jurist
-KEdit
 Karate master
 Kickboxer
 Kindergarten teacher
 Kinesiologist
 King
-LEdit
 Laboratory worker
 Laborer
-Lady-in-waiting
-Landlord (also Landlady)
-Laundress (also Lavendar)
+Landlord 
 Law enforcement agent
 Lawyer
 Leadworker
@@ -385,7 +369,7 @@ Leatherer
 Leather worker
 Lecturer
 Legislator
-Level designer (also Mapper)
+Level designer
 Librarian
 Librarianship
 Librettist
@@ -401,7 +385,6 @@ Locksmith
 Logistician
 Lumberjack
 Lyricist
-MEdit
 Magistrate
 Magician
 Magnate
@@ -424,7 +407,7 @@ Martial artist
 Mason
 Master of Business Administration
 Master of ceremony
-Massage therapist (also masseuse/masseur)
+Massage therapist
 Matador
 Mathematician
 Matron
@@ -443,7 +426,7 @@ Mesmerist
 Messenger
 Meteorologist
 Mid-wife
-Milkman (also Milkmaid)
+Milkman
 Miller
 Miner
 Minister
@@ -452,7 +435,7 @@ Mobile
 Mobster
 Model
 Modeller
-Moldmaker (also Mouldmaker)
+Moldmaker
 Moneychanger
 Moneylender
 Monk
@@ -463,8 +446,7 @@ Muralist
 Music educator
 Music director
 Musician
-NEdit
-Nanny (also nursemaid)
+Nanny
 Navigator
 Négociant
 Negotiator
@@ -478,10 +460,8 @@ Novelist
 Numerologist
 Numismatist
 Nun
-Nursemaid (also nanny)
 Nurse
 Nutritionist
-OEdit
 Oboist
 Obstetrician
 Oceanographer
@@ -502,7 +482,6 @@ Orthopaedist
 Ornithologist
 Ostler
 Otorhinolaryngologist
-PEdit
 Painter
 Paleontologist
 Paleoseismologist
@@ -518,7 +497,7 @@ Pathologist
 Pawnbroker
 Peddler
 Pediatrician
-Pedologist (soil)
+Pedologist
 Percussionist
 Perfumer
 Personal trainer
@@ -538,8 +517,6 @@ Physiotherapist
 Pianist
 Piano tuner
 Pilot
-Pilot (shipping)
-Pimp
 Pirate
 Plasterer
 Plumber
@@ -555,8 +532,6 @@ Politician
 Political scientist
 Pool boy
 Pope
-Pornographer
-Porn star
 Porter
 Poulterer
 Presenter
@@ -564,7 +539,6 @@ President
 Press officer
 Priest
 Prime minister
-Prince
 Princess
 Principal
 Printer
@@ -590,12 +564,3 @@ Public speaker
 Publicist
 Publisher
 Puppeteer
-QEdit
-Queen
-Queen Consort
-Queen dowager
-Queen mother
-Queen Regnant
-Quilter
-REdit
-Rabbi
